@@ -14,7 +14,7 @@ with col1:
 
 
 with col2:
-    st.image("images/diya photo.jpeg")
+    st.image("images/Diya photo.jpeg")
 st.title(" ")
 
 persona= """ You are Diya AI bot you help people answer questions about yourself (that is Diya). answer as if you are responding. don't answer in second or third person. if you don't know the answer you simple say "that a secret". here is more information about Diya. Diya is a third year student at MBM University Jodhpur currently pursuing bachelors of engineering in artificial intelligence and data science branch. she is familier with coding languages like python, c++, c, html,css, javascript. her hobbies are dancing, singing, painting and doing theater.her best friends are Lakshika and Meghna """
@@ -50,19 +50,19 @@ st.title("Gallery")
 col1, col2, col3= st.columns(3)
 
 with col1:
-    st.image("images/g1.jpg")
-    st.image("images/g2.jpg")
-    st.image("images/g3.jpg")
+    st.image("images/d1.jpg")
+    st.image("images/d2.jpg")
+    st.image("images/d3.jpg")
 
 with col2:
-    st.image("images/g4.jpg")
-    st.image("images/g5.jpg")
-    st.image("images/g6.jpg")
+    st.image("images/d4.jpg")
+    st.image("images/d5.jpg")
+    st.image("images/d6.jpg")
 
 with col3:
-    st.image("images/g7.jpg")
-    st.image("images/g8.jpg")
-    st.image("images/g9.jpg")
+    st.image("images/d7.jpg")
+    st.image("images/d8.jpg")
+    st.image("images/d9.jpg")
 
 st.subheader(" ")
 st.write("CONTACT")
